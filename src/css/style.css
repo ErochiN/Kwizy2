@@ -27,9 +27,9 @@ body {
 
 .Div_Img {
     background-image: url("../img/imgfon.png");
+    
     height: 600px;
-    width: 100%;
-    padding-top: 12%;
+    
 }
 
 .A_Form {
@@ -59,6 +59,9 @@ h2 {
     font-weight: 400;
     text-align: center;
     font-size: 50px;
+    margin: 0;
+    position: relative;
+    top: 50%;
 }
 
 .Div_N1 {
@@ -69,85 +72,3 @@ h2 {
     
 }
 
-.Div_logoKwizyMess{
-    /*background-color: red;*/
-    width: 180px;
-    height: 180px;
-    margin-left: 10%;
-    margin-right: 25%;
-}
-
-.Div_logoKwizyMess__Img {
-    width: 180px;
-    height: 180px;
-}
-
-.Div_logoKwizyMess_A__KwizyMess {
-    display: block;
-    text-align: center;
-    color: black;
-    text-decoration: none;
-    font-family: 'Uni Sans-Trial';
-    font-size: 23px;
-}
-
-.Div_logoKwizyMess__P {
-    text-align: center;
-    font-family: 'Uni Sans-Trial';
-    font-weight: 350;
-}
-
-.Div_Img_KwForum {
-    width: 180px;
-    height: 180px;
-}
-
-.Div_Img_KwForum {
-    width: 180px;
-    height: 180px;
-    margin-right: 25%;
-}
-
-.Div_in_Div {
-    display: flex;
-}
-
-.Div_Img_KwForum_A {
-    display: block;
-    text-align: center;
-    color: black;
-    text-decoration: none;
-    font-family: 'Uni Sans-Trial';
-    font-size: 23px;
-}
-
-.Div_Img_KwForum__P {
-    text-align: center;
-    font-family: 'Uni Sans-Trial';
-    font-weight: 350;
-}
-
-.Div_Ship {
-    width: 180px;
-    height: 180px;
-}
-
-.Div_Ship__Img {
-    width: 180px;
-    height: 180px;
-}
-
-.Div_Ship__A {
-    display: block;
-    text-align: center;
-    color: black;
-    text-decoration: none;
-    font-family: 'Uni Sans-Trial';
-    font-size: 23px;
-}
-
-.Div_Ship__P {
-    text-align: center;
-    font-family: 'Uni Sans-Trial';
-    font-weight: 350;
-}
