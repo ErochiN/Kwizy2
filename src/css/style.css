@@ -72,16 +72,15 @@ h2 {
     
 }
 
-.Div_MiniImg__LogoKwizyMess {
-    height: 250px;
-    
+.Div_MiniImg {
+    text-align: center;
 }
 
-.Div_MiniImg__Forum {
+.Div_MiniImg img {
     height: 250px;
-    
+    margin-right: 200px;
 }
-.Div_MiniImg__korabl {
-    height: 250px;
-    
+
+.Div_MiniImg img:last-child{
+    margin-right: 0px;
 }
